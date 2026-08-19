@@ -297,7 +297,7 @@ def settings_menu():
 
 
 def show_report():
-    report = Path(OUTPUT_DIR) / "data.json"
+    report = Path(OUTPUT_DIR) / "bot_data.json"
     clear_screen()
     banner()
     print(color("ÚLTIMO RELATÓRIO", PURPLE, True))
