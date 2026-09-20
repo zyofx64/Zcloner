@@ -55,15 +55,3 @@ Autor
 Zyofx64 / Zyof
 
 GitHub: zyofx64
-
-
-## Licença
-
-Este projeto é distribuído sob a licença MIT.
-
-Consulte o arquivo [LICENSE](LICENSE) para obter os termos completos.
-
-
-## Views
-
-![Visualizações](https://komarev.com/ghpvc/?username=zyofx64&repo=Zcloner&color=blueviolet)
