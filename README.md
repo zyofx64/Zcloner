@@ -2,6 +2,10 @@
 
 Clonador de sites básico feito em Python.
 
+<p align="center">
+  <img src="https://files.catbox.moe/ytr33s.png" alt="Demonstração do Zcloner" width="650">
+</p>
+
 O ZCloner é uma ferramenta simples para clonar páginas web para uso local, utilizando Python e Chromium.
 
 > observação: tem alguns detalhes nele ainda não está completo.
