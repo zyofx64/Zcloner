@@ -10,7 +10,7 @@ import requests
 import time
 
 TARGET_URL = "Zyof.fuck.com"
-OUTPUT_DIR = "./Zcloner"
+OUTPUT_DIR = "./Cloned"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 MAX_DEPTH = 3
 TIMEOUT = 30
@@ -225,7 +225,7 @@ def banner():
  ███████╗╚██████╗███████╗╚██████╔╝██║ ╚████║███████╗██║  ██║
  ╚══════╝ ╚═════╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
 """, PURPLE, True))
-    print(color("                 [ Zcloner Beta ]", MAGENTA))
+    print(color("                 [ Zcloner]", MAGENTA))
     print()
 
 
@@ -376,7 +376,7 @@ def about():
     clear_screen()
     banner()
     print(color("SOBRE", PURPLE, True))
-    print("\nZCLONER é uma interface interativa para o cloner fornecido.")
+    print("\nZCLONER pelo nome ja deve dizer sobre, e um clonador de sites basico em py")
     print(color("Criador: Zyof", MAGENTA, True))
     pause()
 
