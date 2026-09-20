@@ -12,8 +12,18 @@ Requisitos
 
 No Termux, instale o Chromium:
 ```
+pkg update -y
+pkg install tur-repo x11-repo
 pkg install chromium
 ```
+Caso de erro use:
+```
+pkg upgrade
+dpkg --configurec-a
+apt reinstall libc++
+pkg install chromium
+```
+
 Verifique se o Chromium está disponível:
 ```
 which chromium-browser
